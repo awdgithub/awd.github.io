@@ -1,13 +1,11 @@
-body {
-  background-color: Gainsboro;
-  }
 .body {
-  width: 80%
+  width: 80%;
   background-color: DodgerBlue;
-  margin-left: auto
-  margin-right: auto
-  padding: 20px
-  max-width: 500px}
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+  }
 h1 {
   text-align: center;
 }
