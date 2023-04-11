@@ -1,6 +1,9 @@
-h1 {
-  text-align: center;
-}
 body {
   background-color: blue;
   }
+h1 {
+  text-align: center;
+}
+div {
+  width: 80%;
+}
