@@ -13,11 +13,6 @@ body {
 h1 {
   text-align: center;
 }
-hr {
-  height: 2px;
-  background-color: black;
-  border-color: black;
-  }
 footer {
   font-size: 12px;
   }
