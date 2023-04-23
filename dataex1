@@ -1,0 +1,4 @@
+import pandas as pd
+
+df = pd.read_excel(r'C:\Users\adiaz\Desktop\provisionallylicensed.xlsx', sheet_name='provisionallicensure')
+print(df)
